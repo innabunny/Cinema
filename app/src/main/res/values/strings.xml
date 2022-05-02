@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Abkmvs</string>
+    <string name="tittle">Фильмы для малыша</string>
+    <string name="button1">Просмотрено</string>
+    <string name="button2">Нажми ня</string>
+    <string name="button3">Back</string>
+</resources>
